@@ -46,7 +46,6 @@ function countVowels(str) {
 console.log(countVowels("Mansi ")); 
 
 // 7. Sum of Even and Odd Numbers in an Array
-
 const arr = [1, 2, 3, 4, 5, 6];
 let evenSum = 0; 
 let oddSum = 0; 
