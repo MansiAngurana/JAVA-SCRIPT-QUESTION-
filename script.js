@@ -54,4 +54,3 @@ for (const num of arr) {
  num % 2 === 0 ? (evenSum += num) : (oddSum += num);
 }
 console.log({ evenSum, oddSum });
-
